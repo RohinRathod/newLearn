@@ -9,6 +9,7 @@ public class Multithreading {
 		threadobj.start();
 		threadobj.start();
 		threadobj.start();
+		System.out.println("hello");
 
 //		final StringBuilder sharedBuilder = new StringBuilder("Hello");
 //		Runnable task = () -> {
